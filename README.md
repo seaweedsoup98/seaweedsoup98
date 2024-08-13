@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seaweedsoup98
 - 👀 I’m interested in Data Science and Machine Learning!
-- 🌱 I’m currently learning basics of DS, ML techniques and building projects based on Genetic Algorithm.
+- 🌱 I’m currently studying DS, ML techniques and trying to implement interesting papers.
 - 💞️ I’m looking to collaborate on creating ML modules.
 - 📫 Contact me on seaweedsoup98@gmail.com
 
